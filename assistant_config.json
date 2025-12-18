@@ -1,0 +1,15 @@
+{
+  "assistant_name": "Jarvis",
+  "speech_rate": 180,
+  "voice_gender": "female",
+  "user_preferences": {
+    "name": "User",
+    "city": "New York",
+    "language": "en"
+  },
+  "features": {
+    "voice_input": false,
+    "sound_effects": true,
+    "auto_update": false
+  }
+}
